@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\delay_Macro.inc</FILE>
+  <FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\UART_Macros.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\Debug\LED.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LED.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LED.map</FILE>
+  <FILE>LED.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\main.asm</FILE><LINE>33</LINE></loop>
+  <ledforldr><FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\main.asm</FILE><LINE>59</LINE></ledforldr>
+  <sensor2><FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\main.asm</FILE><LINE>65</LINE></sensor2>
+  <sensor><FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\main.asm</FILE><LINE>63</LINE></sensor>
+  <Ledforfire><FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\main.asm</FILE><LINE>100</LINE></Ledforfire>
+  <sensor3><FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\main.asm</FILE><LINE>70</LINE></sensor3>
+  <ledforwater><FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\main.asm</FILE><LINE>104</LINE></ledforwater>
+  <sensor4><FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\main.asm</FILE><LINE>84</LINE></sensor4>
+  <ledforgas><FILE>D:\BS CS\semester 3\Assembly language\week13\ldr\LED\main.asm</FILE><LINE>108</LINE></ledforgas>
+ </LABELS>
+</ASSEMBLER_INFO>
